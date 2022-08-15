@@ -1,0 +1,49 @@
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.Room.resources
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.Employee.resources
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.Equipment.resources
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.Dashboard.resources
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.Account.resources
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.Report.resources
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.Manual.resources
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.EquipmentAdd.resources
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.EmployeeCnt.resources
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.CoreData.resources
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.DrillDown.resources
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.GraphicalData.resources
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.RoomAdd.resources
+C:\Users\Dawn\Documents\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.EmployeeAdd.resources
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.Account.resources
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.CoreData.resources
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.DrillDown.resources
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.EmployeeAdd.resources
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.EmployeeCnt.resources
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.EquipmentAdd.resources
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.GraphicalData.resources
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.Manual.resources
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.Report.resources
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.Dashboard.resources
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.Equipment.resources
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.Employee.resources
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.Room.resources
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.RoomAdd.resources
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.Login.resources
+C:\Users\Adrian Vela\Desktop\INVENTORY SYSTEM\Menu\Menu\obj\Debug\Menu.Menu.resources
